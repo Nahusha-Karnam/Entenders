@@ -11,5 +11,5 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 - Easy Installation: Requires minimal setup; simply place it perpendicular to a solid surface, with 5v DC connection.
 - Auto-Adjust Feature: Automatically calibrates the detection threshold within 10 seconds of being turned on.
 - Adaptable Range: Can be placed between 0.1-4 meters from the detection surface.
-- Low Power Consumption: Designed to operate efficiently with just 5v DC power.
+- Low Power Consumption: Designed to operate efficiently with just 5v DC power which can be provided from a 5v adapter or a Battery bank.
 - Privacy-Friendly: Suitable for use in private rooms without violating privacy.
