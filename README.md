@@ -16,7 +16,7 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 
 ## Components Required
 - VSD Squadron Mini developement board
-- Male USE C Cable
+- Male USB C Cable
 - HC-SR04 Ultrasonic Sensor
 - Bread Board
 - Male to Male; Male to Female jumper cable
