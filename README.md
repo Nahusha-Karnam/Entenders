@@ -26,7 +26,8 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 
 
 ## Circute Diagram
-<img width="421" alt="Circute diag" src="https://github.com/Nahusha-Karnam/Entenders/assets/171113429/1546b783-4599-40fa-979d-518e3173dfd5">
+<img width="421" alt="Circute diag" src="https://github.com/Nahusha-Karnam/Entenders/assets/171113429/01651e4e-066b-4697-9705-131a6dbaddcb">
+
 
 ## Table for Pin Connection
 | HC-SR04 Ultrasonic Sensor | VSD Squadron Mini |
