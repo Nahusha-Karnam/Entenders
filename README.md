@@ -52,6 +52,6 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 
 | Toggle Switch |  VSD Squadron Mini |
 |---------------|--------------------|
-| Pin 1 | VCC |
+| Pin 1 | 5V |
 | Comm | PD5 |
 
