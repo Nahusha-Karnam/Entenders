@@ -50,4 +50,8 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 | Pin 1 |  | PD3 |
 | Pin 2 | 220Ω | Gnd|
 
+| Toggle Switch |  VSD Squadron Mini |
+|---------------|--------------------|
+| Pin 1 | VCC |
+| Comm | PD5 |
 
