@@ -13,3 +13,40 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 - Adaptable Range: Can be placed between 0.1-4 meters from the detection surface.
 - Low Power Consumption: Designed to operate efficiently with just 5v DC power which can be provided from a 5v adapter or a Battery bank.
 - Privacy-Friendly: Suitable for use in private rooms without violating privacy.
+
+## Components Required
+- VSD Squadron Mini developement board
+- Male USE C Cable
+- HC-SR04 Ultrasonic Sensor
+- Bread Board
+- Male to Male; Male to Female jumper cable
+- Red LED
+- Passive Buzzer
+- 220 Ohm Resistor
+
+
+## Circute Diagram
+<img width="421" alt="Circute diag" src="https://github.com/Nahusha-Karnam/Entenders/assets/171113429/1546b783-4599-40fa-979d-518e3173dfd5">
+
+## Table for Pin Connection
+| HC-SR04 Ultrasonic Sensor | VSD Squadron Mini |
+|---------------------------|-------------------|
+| VCC | 5V |
+| Trig | PD2 |
+| Echo | PD1 |
+| Gnd | Gnd |
+
+
+
+| LED | Resistor | VSD Squadron Mini|
+|-----|------|------------------|
+| + |  | PD4 |
+| - | 220Ω | Gnd|
+
+
+| Buzzer | Resistor | VSD Squadron Mini|
+|--------|----------|------------------|
+| Pin 1 |  | PD3 |
+| Pin 2 | 220Ω | Gnd|
+
+
