@@ -1,6 +1,15 @@
 # Advanced Easy to use Burgler Alarm
 ## Introduction
-In the age of modern IoT devices like CCTV cameras which are used for surveillance, but hard to install while some of them require internet, and requires a lot of memory and can't be installed in private rooms where privacy is violated. So there is a need for a medium level security device which can be used to detect any trespassing of an area and is easy to install and works with minimum power.
+In the age of modern IoT devices, CCTV cameras are commonly used for surveillance. However, they are often difficult to install, require internet connectivity, consume significant memory, and can't be installed in private rooms where privacy is a concern. Therefore, there is a need for a medium-level security device that can detect trespassing, is easy to install, and operates with minimal power.
 
 ## Overview
-The Advanced Easy to Use Burgler Alarm uses ultrosound radar sensor to detect anything which passes it's line of sight, it is wired with a passive buzzer which alerts the user whenever something trespasses the area, similar functionality can be obtained from a Laser Detection system where a laser is pointed at a Light Dependent Resistor (LDR) and whenever something blocks it's line of sight it detects a trespassing
+The Advanced Easy to Use Burglar Alarm uses an ultrasound radar sensor to detect any object passing through its field of vision. It is equipped with a passive buzzer that alerts the user whenever an intrusion is detected. While similar functionality can be achieved with a laser detection system, where a laser is pointed at a Light Dependent Resistor (LDR) and detects trespassing when its line of sight is blocked, such systems require extensive setup and wiring and are not foolproof.
+
+In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy installation. It only needs to be placed perpendicular to a solid surface. One of the key features of this device is its adaptability through the auto-adjust feature. When placed within 0.1-4 meters from a solid surface and turned on, the device's LED lights up for around 10 seconds, during which it measures the distance to the solid surface and sets its threshold. After the LED turns off, the device is ready to detect any object passing through its field of view and alerts the user with its buzzer, and just requires 5v DC power which can be provided with a mobile charging power bank in case of power outages.
+
+## Key Features
+- Easy Installation: Requires minimal setup; simply place it perpendicular to a solid surface, with 5v DC connection.
+- Auto-Adjust Feature: Automatically calibrates the detection threshold within 10 seconds of being turned on.
+- Adaptable Range: Can be placed between 0.1-4 meters from the detection surface.
+- Low Power Consumption: Designed to operate efficiently with just 5v DC power.
+- Privacy-Friendly: Suitable for use in private rooms without violating privacy.
