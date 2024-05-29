@@ -23,6 +23,7 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 - Red LED
 - Passive Buzzer
 - 220 Ohm Resistor
+- Toggle Switch
 
 
 ## Circute Diagram
