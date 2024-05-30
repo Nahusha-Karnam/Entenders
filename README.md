@@ -26,7 +26,7 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 - Toggle Switch
 
 
-## Circute Diagram
+## circuit Diagram
 <img width="421" alt="Circute diag" src="https://github.com/Nahusha-Karnam/Entenders/assets/171113429/01651e4e-066b-4697-9705-131a6dbaddcb">
 
 
