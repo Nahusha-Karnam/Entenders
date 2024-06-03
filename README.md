@@ -56,3 +56,7 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 | Pin 1 | 5V |
 | Comm | PD5 |
 
+
+
+https://github.com/Nahusha-Karnam/Entenders/assets/171113429/6c15f4de-d980-409a-8bc6-57afdc2adde6
+
