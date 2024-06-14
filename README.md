@@ -27,15 +27,15 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 
 
 ## Circuit Diagram
-<img width="421" alt="Circute diag" src="https://github.com/Nahusha-Karnam/Entenders/assets/171113429/01651e4e-066b-4697-9705-131a6dbaddcb">
 
+<img width="801" alt="circuit" src="https://github.com/Nahusha-Karnam/Entenders/assets/171113429/32583990-2f75-4ef2-9e9b-5ec50bb0ab2b">
 
 ## Table for Pin Connection
 | HC-SR04 Ultrasonic Sensor | VSD Squadron Mini |
 |---------------------------|-------------------|
 | VCC | 5V |
-| Trig | PD2 |
-| Echo | PD1 |
+| Trig | PD3 |
+| Echo | PD2 |
 | Gnd | Gnd |
 
 
@@ -46,15 +46,15 @@ In contrast, the Advanced Easy to Use Burglar Alarm is designed for easy install
 | - | 220Ω | Gnd|
 
 
-| Buzzer | Resistor | VSD Squadron Mini|
-|--------|----------|------------------|
-| Pin 1 |  | PD3 |
-| Pin 2 | 220Ω | Gnd|
+| Buzzer | VSD Squadron Mini|
+|--------|------------------|
+| Pin 1 | PC7 |
+| Pin 2 | Gnd|
 
-| Toggle Switch |  VSD Squadron Mini |
+| Button Switch |  VSD Squadron Mini |
 |---------------|--------------------|
 | Pin 1 | 5V |
-| Comm | PD5 |
+| Pin 2 | PC3 |
 
 
 
